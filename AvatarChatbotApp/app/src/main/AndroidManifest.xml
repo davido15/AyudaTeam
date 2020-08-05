@@ -41,7 +41,7 @@
             android:value="required" />
         <meta-data
             android:name="com.google.android.ar.API_KEY"
-            android:value="AIzaSyAQDnXONKqpK-FjYvCcdXb0DyOLQ0Xo9Kk" />
+            android:value="keys" />
     </application>
 
 </manifest>
