@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.mobile.foundation:ibmmobilefirstplatformfoundation:8.0.2020052606@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/352e67881954ee65b7d50e7b3c174334/ibmmobilefirstplatformfoundation-8.0.2020052606/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/352e67881954ee65b7d50e7b3c174334/ibmmobilefirstplatformfoundation-8.0.2020052606/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/352e67881954ee65b7d50e7b3c174334/ibmmobilefirstplatformfoundation-8.0.2020052606/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2020052606/c0e83afe9ba4357aae3378ec7b7b3cf4a932d595/ibmmobilefirstplatformfoundation-8.0.2020052606-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2020052606/8f0a5daaff163ece59051f5e21140e548eb0804b/ibmmobilefirstplatformfoundation-8.0.2020052606-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

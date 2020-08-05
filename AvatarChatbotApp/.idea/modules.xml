@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AvatarChatbotApp.iml" filepath="$PROJECT_DIR$/AvatarChatbotApp.iml" group="AvatarChatbotApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AvatarChatbotApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/sceneform.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/sceneform.iml" group="AvatarChatbotApp/sceneform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformux/ux/sceneformux.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformux/ux/sceneformux.iml" group="AvatarChatbotApp/sceneformux" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,175 @@
+{
+  materials: [
+    {
+      name: 'Bodymat',
+      parameters: [
+        {
+          baseColor: 'female_Body_Diffuse',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.21030699999999999,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Shoesmat',
+      parameters: [
+        {
+          baseColor: 'female_Shoes_Diffuse',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.21030699999999999,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Bottommat',
+      parameters: [
+        {
+          baseColor: 'female_Bottom_Diffuse',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.21030699999999999,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Topmat',
+      parameters: [
+        {
+          baseColor: 'female_Top_Diffuse',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.21030699999999999,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Avatar/female.obj',
+    name: 'female',
+    recenter: 'root',
+    scale: 0.026556,
+  },
+  samplers: [
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Body_Diffuse.png',
+      name: 'female_Body_Diffuse',
+      params: {
+        usage_type: 'Data',
+      },
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Body_Diffuse.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Body_Specular.png',
+      name: 'female_Body_Specular',
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Body_Specular.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Shoes_Diffuse.png',
+      name: 'female_Shoes_Diffuse',
+      params: {
+        usage_type: 'Data',
+      },
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Shoes_Diffuse.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Top_Diffuse.png',
+      name: 'female_Top_Diffuse',
+      params: {
+        usage_type: 'Data',
+      },
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Top_Diffuse.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Shoes_Specular.png',
+      name: 'female_Shoes_Specular',
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Shoes_Specular.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Bottom_Diffuse.png',
+      name: 'female_Bottom_Diffuse',
+      params: {
+        usage_type: 'Data',
+      },
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Bottom_Diffuse.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Bottom_Specular.png',
+      name: 'female_Bottom_Specular',
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Bottom_Specular.png',
+    },
+    {
+      file: 'sampledata/Avatar\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Top_Specular.png',
+      name: 'female_Top_Specular',
+      pipeline_name: 'C:\\Users\\Dom\\Downloads\\Idle (1).fbm\\female_Top_Specular.png',
+    },
+  ],
+  version: '0.54:2',
+}

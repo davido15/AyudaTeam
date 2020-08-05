@@ -1,0 +1,68 @@
+{
+  animations: [
+    {
+      path: 'sampledata/peterav/peter.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'rp_mei_posed_001_30k_mat',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'rp_mei_posed_001_dif_2k',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/peterav/peter.fbx',
+    name: 'peter',
+    recenter: 'root',
+  },
+  samplers: [
+    {
+      file: 'sampledata/peterav\\peter.fbm\\rp_mei_posed_001_dif_2k.jpg',
+      name: 'rp_mei_posed_001_dif_2k',
+      pipeline_name: 'peter.fbm\\rp_mei_posed_001_dif_2k.jpg',
+    },
+  ],
+  version: '0.54:2',
+}
